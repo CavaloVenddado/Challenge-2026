@@ -1,0 +1,45 @@
+escola
+
+self.ground_color_intervals = ([335, 360, 80, 95, 65, 85], 
+                                        [340, 350, 45, 90, 80, 90], 
+                                        [221, 280, 20, 40, 30, 70], 
+                                        [210, 220, 30, 75, 35, 100], 
+                                        [40, 100, 0, 55, 90, 100]) # [0] and [1] = H, [2] and [3] = S, [4] and [5] = V
+
+competição - reserva
+
+self.ground_color_intervals = ([335, 365, 80, 97, 65, 90], 
+                                       [235, 300, 10, 30, 10, 35], 
+                                       [210, 235, 75, 90, 25, 60], 
+                                       [45, 65, 45, 60, 80, 100], 
+                                       [200, 220, 0, 30, 90, 100]) # [0] and [1] = H, [2] and [3] = S, [4] and [5] = V
+
+competição - oficial
+
+        self.ground_colors = (Color.WHITE, Color.RED, Color.BLACK, Color.BLUE, Color.WHITE, Color.YELLOW)
+        
+        self.ground_color_intervals = ([0, 360, 0, 100, 0, 100],
+                                       [325, 370, 30, 95, 60, 100], 
+                                       [211, 340, 0, 30, 10, 55], 
+                                       [200, 230, 32, 95, 30, 100], 
+                                       [0, 360, 0, 100, 96, 100],
+                                       [25, 150, 0, 80, 55, 100])
+
+
+                                       
+         self.person_colors = (Color.WHITE, Color.RED, Color.WHITE, Color.WHITE, Color.RED, Color.RED, Color.RED, Color.RED, Color.RED, Color.RED, Color.WHITE)
+         self.person_color_intervals = ([0, 360, 0, 100, 0, 100],   #white
+                                    #    [180, 180, 40, 40, 11, 11], #blu
+                                    #    [168, 168, 49, 49, 11, 11], #green
+                                       [180, 180, 22, 32, 11, 11], #red
+                                       [165, 168, 36, 43, 11, 13], #white
+                                       [165, 180, 37, 49, 13, 13], #other white
+                                    #    [165, 165, 43, 43, 11, 11], #brown close?
+                                       [180, 180, 32, 32, 11, 11], #brown
+                                       [180, 180, 52, 52, 13, 13], #blu
+                                       [180, 180, 49, 49, 11, 11], #blu
+                                       [180, 180, 43, 43, 11, 11], #green?
+                                       [190, 192, 40, 40, 11, 11], #blu close
+                                       [190, 192, 49, 49, 11, 11], #blu close
+                                       [180, 180, 43, 43, 11, 11], #white
+                                    #    [168, 168, 49, 49, 11, 11])

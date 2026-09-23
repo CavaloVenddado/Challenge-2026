@@ -1,0 +1,9 @@
+hub.speaker.volume(100)
+
+# MEGALOVANIA
+mega = ["D3/8", "D3/8", "D4/8", "R/8", "A3/8", "R/4"]
+hub.speaker.play_notes(mega, 240)
+
+# UNDERTALE MAIN THEME
+notes = ["D3/2", "D4/2", "A3/1", "G3/2", "D4/2", "D3/1", "D3/2", "A3/2", "D4/2.", "E4/4", "D4/2", "A3/2", "G3/2."]
+hub.speaker.play_notes(notes, 120)
