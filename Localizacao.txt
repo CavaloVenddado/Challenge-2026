@@ -1,0 +1,7 @@
+enquanto ve verde, andar para frente
+se ver azul, dar ré virar para a esquerda
+se ver vermelho, dar ré e virar para a esquerda
+se ver amarelo, ande um pouco para trás e vire para a direita
+se já viu amarelo e vermelho, 
+    se o ultimo a ser visto foi vermelho, virar esquerda, 
+    senao, 180
